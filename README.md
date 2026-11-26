@@ -1,6 +1,8 @@
 <h1 align="center">Yo Yo Yo,I'm Pouria</h1>
 <h3 align="center">Turning data into predictions | Python · scikit-learn · Data Mining</h3>
 
+<img align = "right" alt="Rtaph2019" width= "400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRsOWh0bjYwamxqYndhcW13aGhrMnhzaGI1NjJkbGhmaDkwbzliOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtaph2019&label=Profile%20views&color=0e75b6&style=flat" alt="rtaph2019" /> </p>
 
 - 🔭 I’m currently working on [a simple disease-predictor model](https://github.com/Rtaph2019/disease-predictor)
